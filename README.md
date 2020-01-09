@@ -6,6 +6,8 @@ Image by Pexels  from Pixabay (https://pixabay.com/photos/code-code-editor-codin
 
   
 
+
+
 ## What is Markdown?
 
 - 마크다운은 웹에서 스타일을 지정하는 방법 중 하나이다.
@@ -19,6 +21,8 @@ Image by Pexels  from Pixabay (https://pixabay.com/photos/code-code-editor-codin
   - `.md` 또는 `.markdown` 을 확장자로 갖는 문서를 작성한다.  
 
   
+
+
 
 ## Basic Syntax
 
