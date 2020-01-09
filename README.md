@@ -1,5 +1,11 @@
 # Awesome Markdown Guide
 
+![Awesome markdown guide](images/0001.jpg)
+
+Image by Pexels  from Pixabay (https://pixabay.com/photos/code-code-editor-coding-computer-1839406/)
+
+  
+
 ## What is Markdown?
 
 - 마크다운은 웹에서 스타일을 지정하는 방법 중 하나이다.
