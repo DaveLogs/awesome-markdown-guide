@@ -20,9 +20,7 @@ Image by Pexels  from Pixabay (https://pixabay.com/photos/code-code-editor-codin
   - [Gist](https://gist.github.com/)를 생성하고,
   - `.md` 또는 `.markdown` 을 확장자로 갖는 문서를 작성한다.  
 
-  
-
-
+<br>
 
 ## Basic Syntax
 
