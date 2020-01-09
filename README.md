@@ -1,6 +1,18 @@
 # Awesome Markdown Guide
 
+## What is Markdown?
 
+- 마크다운은 웹에서 스타일을 지정하는 방법 중 하나이다.
+- 문서 표시를 제어할 수 있다.
+  - 단어를 굵게(Bold) 또는 기울임꼴(Italic)로 표시하거나,
+  - 이미지를 추가하고,
+  - 목록을 만드는 일을 할 수 있다.
+- GitHub에서는 
+  -  Repository의 README 문서를 작성하거나,
+  - [Gist](https://gist.github.com/)를 생성하고,
+  - `.md` 또는 `.markdown` 을 확장자로 갖는 문서를 작성한다.  
+
+  
 
 ## Basic Syntax
 
