@@ -2,11 +2,11 @@
 
 
 
-# Basic Syntax
+## Basic Syntax
 
------
 
-## 제목 (Headings)
+
+### 제목 (Headings)
 
 ```
 # Heading level 1
@@ -20,7 +20,7 @@
 >
 > ###### Heading level 6
 
-#### Alternate Syntax
+##### Alternate Syntax
 
 ```
 Heading level 1
@@ -40,7 +40,7 @@ Heading level 2
 
 
 
-## 강조 (Emphasis)
+### 강조 (Emphasis)
 
 ```
 *This text will be italic*
@@ -60,7 +60,7 @@ __This will also be bold__
 >
 > __This will also be bold__
 
-#### Examples
+##### Examples
 
 ```
 _You **can** combine them_
@@ -72,7 +72,7 @@ _You **can** combine them_
 
 
 
-## 취소선 (Strikethrough)
+### 취소선 (Strikethrough)
 
 ```
 ~~This text will have a strikethrough~~
@@ -84,23 +84,23 @@ _You **can** combine them_
 
 
 
-## 리스트 (Lists)
+### 리스트 (Lists)
 
 
 
 
 
-# Extended Syntax
-
------
-
-## 테이블 (Tables)
+## Extended Syntax
 
 
 
+### 테이블 (Tables)
 
 
-# 참고
+
+
+
+## 참고
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Getting Started \| Markdown Guide](https://www.markdownguide.org/getting-started/)
