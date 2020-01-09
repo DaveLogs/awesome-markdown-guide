@@ -4,9 +4,7 @@
 
 Image by Pexels  from Pixabay (https://pixabay.com/photos/code-code-editor-coding-computer-1839406/)
 
-  
-
-
+<br>
 
 ## What is Markdown?
 
@@ -58,7 +56,7 @@ Heading level 2
 > Heading level 2
 > ---------------
 
-
+<br>
 
 ### 강조 (Emphasis)
 
@@ -88,9 +86,7 @@ _You **can** combine them_
 
 > _You **can** combine them_
 
-
-
-
+<br>
 
 ### 취소선 (Strikethrough)
 
@@ -100,15 +96,13 @@ _You **can** combine them_
 
 > ~~This text will have a strikethrough~~
 
-
-
-
+<br>
 
 ### 리스트 (Lists)
 
 
 
-
+<br>
 
 ## Extended Syntax
 
@@ -118,7 +112,7 @@ _You **can** combine them_
 
 
 
-
+<br>
 
 ## 참고
 
