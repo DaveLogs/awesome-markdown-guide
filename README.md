@@ -103,20 +103,30 @@ _You **can** combine them_
 #### 순서 없는 목록 (Unordered, 글머리 기호)
 
 ```
-* 요소1
-* 요소2
-	* 요소2-1
-	* 요소2-2
-- 요소3
-+ 요소4
+* Item 1
+* Item 2
+	* Item 2-1
+	* Item 2-2
+- Item 3
++ Item 4
 ```
 
-> * 요소1
-> * 요소2
-> 	* 요소2-1
-> 	* 요소2-2
-> - 요소3
-> + 요소4
+> * Item 1
+> * Item 2
+> 	* Item 2-1
+> 	* Item 2-2
+> - Item 3
+> + Item 4
+
+```
+* Step 1
+	* Step 1-1
+		* Step 1-1-1
+```
+
+> * Step 1
+> 	* Step 1-1
+> 		* Step 1-1-1
 
 <br>
 
