@@ -98,7 +98,29 @@ _You **can** combine them_
 
 <br>
 
-### 리스트 (Lists)
+### 목록 (Lists)
+
+#### 순서 없는 목록 (Unordered, 글머리 기호)
+
+```
+* 요소1
+* 요소2
+	* 요소2-1
+	* 요소2-2
+- 요소3
++ 요소4
+```
+
+> * 요소1
+> * 요소2
+> 	* 요소2-1
+> 	* 요소2-2
+> - 요소3
+> + 요소4
+
+<br>
+
+#### 순서 있는 리스트 (Ordered, 번호)
 
 
 
@@ -119,4 +141,5 @@ _You **can** combine them_
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Getting Started \| Markdown Guide](https://www.markdownguide.org/getting-started/)
 * [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* [마크다운(Markdown) 정리](https://blog.kim1jun.xyz/5)
 
