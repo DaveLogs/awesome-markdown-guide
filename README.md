@@ -38,7 +38,7 @@ Image by Pexels  from Pixabay (https://pixabay.com/photos/code-code-editor-codin
 >
 > ###### Heading level 6
 
-##### Alternate Syntax
+#### Alternate Syntax
 
 ```
 Heading level 1
@@ -198,10 +198,10 @@ $ sudo apt-get update
 
 <br>
 
-##### Syntax highlighting
+#### Syntax highlighting
 
 ```
-​```bash
+​```shell
 $ sudo apt-get update
 ​```
 ```
