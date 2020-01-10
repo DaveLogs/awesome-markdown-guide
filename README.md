@@ -258,6 +258,28 @@ Note.
 
 <br>
 
+### 수평선 (Horizontal line)
+
+```
+Here
+--- (dashes)
+*** (asterisks)
+___ (underscores)
+There
+```
+
+> Here
+>
+> ---
+>
+> ***
+>
+> ___
+>
+> There
+
+<br>
+
 ## Extended Syntax
 
 ### 테이블 (Tables)
@@ -276,6 +298,8 @@ row 3      | (3, 1)   | (3, 2)   | (3, 3)
 > | row 2      | (2, 1)   | (2, 2)   | (2, 3)   |
 > | row 3      | (3, 1)   | (3, 2)   | (3, 3)   |
 
+#### Alignment
+
 ```
 Syntax    | Description | Test Text
 :-------- | :---------: | ----------:
@@ -283,10 +307,10 @@ Left      | Center      | Right
 This      | is          | the alignment
 ```
 
-> | Syntax | Description | Test Text |
-> | :----- | :---------: | --------: |
-> | Left   |   Center    |     Right |
-> | This   |     is      | Alignment |
+> | Syntax | Description |     Test Text |
+> | :----- | :---------: | ------------: |
+> | Left   |   Center    |         Right |
+> | This   |     is      | the alignment |
 
 Note.
 
@@ -365,6 +389,8 @@ def validate(arg):
 >   "age": 25
 > }
 > ```
+
+<br>
 
 <br>
 
