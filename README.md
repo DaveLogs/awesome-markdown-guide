@@ -201,13 +201,21 @@ $ sudo apt-get update
 #### Syntax highlighting
 
 ```
-​```shell
-$ sudo apt-get update
+​```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ​```
 ```
 
-> ```bash
-> $ sudo apt-get update
+> ```javascript
+> function fancyAlert(arg) {
+>   if(arg) {
+>     $.facebox({div:'#foo'})
+>   }
+> }
 > ```
 
 ```
