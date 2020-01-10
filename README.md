@@ -78,8 +78,6 @@ __This will also be bold__
 >
 > __This will also be bold__
 
-##### Examples
-
 ```
 _You **can** combine them_
 ```
@@ -104,35 +102,37 @@ _You **can** combine them_
 
 ```
 * Item 1
-* Item 2
-   * Item 2-1
-   * Item 2-2
-- Item 3
-+ Item 4
+   * Item 1-1
+   * Item 1-2
+      * Item 1-2-1
+- Item 2
++ Item 3
 ```
 
 > * Item 1
-> * Item 2
-> 	* Item 2-1
-> 	* Item 2-2
+>   * Item 1-1
+>   * Item 1-2
+>     * Item 1-3
 > - Item 3
 > + Item 4
 
 ```
 * Step 1
-   * Step 1-1
-      * Step 1-1-1
-         * Step 1-1-1-1
+   - Step 1-1
+      + Step 1-1-1
 ```
 
 > * Step 1
 > 	* Step 1-1
 > 		* Step 1-1-1
-> 		  * Step 1-1-1-1
+
+Note.
+
+* 글머리 기호를 혼용해서 사용하길 수도 있다.
 
 <br>
 
-#### 순서 있는 리스트 (Ordered, 번호)
+#### 순서 있는 목록 (Ordered, 번호)
 
 ```
 1. First
@@ -147,6 +147,66 @@ _You **can** combine them_
 Note.
 
 * 입력하는 숫자에 관계없이 오름차순으로 배정된다.
+
+<br>
+
+### 인용 (Blockquotes)
+
+```
+> This is blockquote
+>
+> > This is nested blockquote
+```
+
+> > This is blockquote
+> >
+> > > This is nested blockquote
+
+```
+> Blockquotes can contain other Markdown formatted elements.
+>
+> #### Heading
+>
+> - unordered list
+> 1. ordered list
+>
+> *Not all elements can be used* - **you'll need to experiment to see which ones work.**
+```
+
+> > Blockquotes can contain other Markdown formatted elements.
+> >
+> > #### Heading
+> >
+> > - unordered list
+> > 1. ordered list
+> >
+> > *Not all elements can be used* - **you'll need to experiment to see which ones work.**
+
+<br>
+
+### 코드블록 (Code Blocks or Code Fences)
+
+
+
+
+
+Code Hightlighting
+
+<br>
+
+### 이미지 (Images)
+
+
+
+<br>
+
+### 링크 (Links)
+
+
+
+<br>
+
+
 
 <br>
 
