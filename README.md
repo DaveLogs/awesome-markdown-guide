@@ -150,6 +150,18 @@ Note.
 
 <br>
 
+#### 작업 목록 (Tasks)
+
+```
+[x] This is a complete item
+[ ] This is an incomplete item
+```
+
+> [x] This is a complete item
+> [ ] This is an incomplete item
+
+<br>
+
 ### 인용 (Blockquotes)
 
 ```
@@ -184,7 +196,33 @@ Note.
 
 <br>
 
-### 코드블록 (Code Blocks/Code Fences)
+### 이미지 (Images)
+
+
+
+<br>
+
+### 링크 (Links)
+
+
+
+<br>
+
+
+
+<br>
+
+## Extended Syntax
+
+
+
+### 테이블 (Tables)
+
+
+
+<br>
+
+### 코드블록 (Fenced Code Blocks)
 
 ```
 ​```
@@ -195,8 +233,6 @@ $ sudo apt-get update
 > ```
 > $ sudo apt-get update
 > ```
-
-<br>
 
 #### Syntax highlighting
 
@@ -238,29 +274,23 @@ def validate(arg):
 
 <br>
 
-### 이미지 (Images)
+```
+​```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+​```
+```
 
-
-
-<br>
-
-### 링크 (Links)
-
-
-
-<br>
-
-
-
-<br>
-
-## Extended Syntax
-
-
-
-### 테이블 (Tables)
-
-
+> ```json
+> {
+>   "firstName": "John",
+>   "lastName": "Smith",
+>   "age": 25
+> }
+> ```
 
 <br>
 
