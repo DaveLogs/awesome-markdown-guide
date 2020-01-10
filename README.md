@@ -263,22 +263,24 @@ Note.
 ### 테이블 (Tables)
 
 ```
-Syntax    | Description | Test Text
---------- | ----------- | -----------
-Header    | Title       | Here's this
-Paragraph | Text        | And more
+(row, col) | column 1 | column 2 | column 3
+---------- | -------- | -------- | --------
+row 1      | (1, 1)   | (1, 2)   | (1, 3)
+row 2      | (2, 1)   | (2, 2)   | (2, 3)
+row 3      | (3, 1)   | (3, 2)   | (3, 3)
 ```
 
-> | Syntax    | Description | Test Text   |
-> | --------- | ----------- | ----------- |
-> | Header    | Title       | Here's this |
-> | Paragraph | Text        | And more    |
+> | (row, col) | column 1 | column 2 | column 3 |
+> | ---------- | -------- | -------- | -------- |
+> | row 1      | (1, 1)   | (1, 2)   | (1, 3)   |
+> | row 2      | (2, 1)   | (2, 2)   | (2, 3)   |
+> | row 3      | (3, 1)   | (3, 2)   | (3, 3)   |
 
 ```
 Syntax    | Description | Test Text
 :-------- | :---------: | ----------:
 Left      | Center      | Right
-This      | is          | Alignment
+This      | is          | the alignment
 ```
 
 > | Syntax | Description | Test Text |
