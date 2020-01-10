@@ -203,35 +203,37 @@ $ sudo apt-get update
 ```
 ​```javascript
 function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+   if(arg) {
+      $.facebox({div:'#foo'})
+   }
 }
 ​```
 ```
 
 > ```javascript
 > function fancyAlert(arg) {
->   if(arg) {
->     $.facebox({div:'#foo'})
->   }
+>    if(arg) {
+>       $.facebox({div:'#foo'})
+>    }
 > }
 > ```
+
+<br>
 
 ```
 ​```python
 def validate(arg):
-	if arg is None:
-		return False
-	return True
+   if arg is None:
+      return False
+   return True
 ​```
 ```
 
 > ```python
 > def validate(arg):
-> 	if arg is None:
-> 		return False
-> 	return True
+>    if arg is None:
+>       return False
+>    return True
 > ```
 
 <br>
