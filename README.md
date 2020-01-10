@@ -203,17 +203,44 @@ Note.
 
 ### 이미지 (Images)
 
+```
+![Sample image](images/0002.jpg)
+Format: ![Alt Text](url)
+```
 
+> ![Sample image](images/0002.jpg)
+>
+> Photo by [Joris Visser](https://unsplash.com/@jorisv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cafe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Note.
+
+- 캡션, 사이즈 조절은 지원하지 않음.
+- 필요한 경우 HTML 태그로 처리.
 
 <br>
 
 ### 링크 (Links)
 
+```
+[DaveLogs](http://davelogs.tistory.com)
+Format: [Link Text](url)
 
+http://davelogs.tistory.com - automatic!
+```
+
+> [DaveLogs](http://davelogs.tistory.com)
+>
+> http://davelogs.tistory.com - automatic!
 
 <br>
 
+### 인라인 코드 (Inline code)
 
+```
+You should write a `README.md` in GitHub.
+```
+
+> You should write a `README.md` in GitHub.
 
 <br>
 
