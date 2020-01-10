@@ -184,13 +184,47 @@ Note.
 
 <br>
 
-### 코드블록 (Code Blocks or Code Fences)
+### 코드블록 (Code Blocks/Code Fences)
 
+```
+​```
+$ sudo apt-get update
+​```
+```
 
+> ```
+> $ sudo apt-get update
+> ```
 
+<br>
 
+##### Syntax highlighting
 
-Code Hightlighting
+```
+​```bash
+$ sudo apt-get update
+​```
+```
+
+> ```bash
+> $ sudo apt-get update
+> ```
+
+```
+​```python
+def validate(arg):
+	if arg is None:
+		return False
+	return True
+​```
+```
+
+> ```python
+> def validate(arg):
+> 	if arg is None:
+> 		return False
+> 	return True
+> ```
 
 <br>
 
