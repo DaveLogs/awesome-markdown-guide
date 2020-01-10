@@ -244,13 +244,53 @@ You should write a `README.md` in GitHub.
 
 <br>
 
+### 이모티콘 (Emoji)
+
+```
+Wow! Awesome!! :clap: :+1: :sunglasses:
+```
+
+>Wow! Awesome!! :clap: :+1: :sunglasses:
+
+Note.
+
+- [Emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+<br>
+
 ## Extended Syntax
-
-
 
 ### 테이블 (Tables)
 
+```
+Syntax    | Description | Test Text
+--------- | ----------- | -----------
+Header    | Title       | Here's this
+Paragraph | Text        | And more
+```
 
+> | Syntax    | Description | Test Text   |
+> | --------- | ----------- | ----------- |
+> | Header    | Title       | Here's this |
+> | Paragraph | Text        | And more    |
+
+```
+Syntax    | Description | Test Text
+:-------- | :---------: | ----------:
+Left      | Center      | Right
+This      | is          | Alignment
+```
+
+> | Syntax | Description | Test Text |
+> | :----- | :---------: | --------: |
+> | Left   |   Center    |     Right |
+> | This   |     is      | Alignment |
+
+Note.
+
+- 하이픈(`-`)과 파이프(`|`)를 이용해 표를 테이블을 구성
+- 3개 이상의 하이픈(`-`)으로 첫번째 행으로 지정
+- 콜론(`:`)과 하이픈(`-`)을 이용해 열(column)의 정렬 방법 설정
 
 <br>
 
