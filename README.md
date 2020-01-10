@@ -158,7 +158,12 @@ Note.
 ```
 
 > [x] This is a complete item
+>
 > [ ] This is an incomplete item
+
+Note.
+
+- 제대로 동작하는 것인지 잘 모르겠음
 
 <br>
 
