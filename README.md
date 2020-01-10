@@ -105,8 +105,8 @@ _You **can** combine them_
 ```
 * Item 1
 * Item 2
-	* Item 2-1
-	* Item 2-2
+   * Item 2-1
+   * Item 2-2
 - Item 3
 + Item 4
 ```
@@ -120,9 +120,9 @@ _You **can** combine them_
 
 ```
 * Step 1
-  * Step 1-1
-    * Step 1-1-1
-      * Step 1-1-1-1
+   * Step 1-1
+      * Step 1-1-1
+         * Step 1-1-1-1
 ```
 
 > * Step 1
@@ -134,7 +134,19 @@ _You **can** combine them_
 
 #### 순서 있는 리스트 (Ordered, 번호)
 
+```
+1. First
+1. Second
+2. Third
+```
 
+> 1. First
+> 1. Second
+> 2. Third
+
+Note.
+
+* 입력하는 숫자에 관계없이 오름차순으로 배정된다.
 
 <br>
 
